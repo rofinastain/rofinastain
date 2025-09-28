@@ -1,9 +1,14 @@
-# Halo semua! 
+# 👋 Hi, I’m Rofi Nastain  
 
-Perkenalkan nama saya **Rofi Nastain**.<br>
+I’m an **Information Systems student** at **Gunadarma University** with a strong interest in **Data Science, Cloud Computing, and Machine Learning**.  
+I have completed several **certifications from Dicoding** and continue to improve my technical skills through projects and training programs.  
 
-Saya seorang **Mahasiswa** di Universitas Gunadarma.<br>
+🌱 Currently learning and exploring new technologies.  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rofinastain/)  
 
-Saya juga memiliki banyak sertifikat dari Dicoding.<br>
+---
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rofinastain/)ku ya.
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, HTML/CSS  
+- **Tools & Frameworks:** TensorFlow, REST API, Git/GitHub  
+- **Cloud:** Google Cloud Platform 
